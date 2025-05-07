@@ -1,0 +1,6 @@
+@CustoFreteAPI_HostAddress = http://localhost:5215
+
+GET {{CustoFreteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
